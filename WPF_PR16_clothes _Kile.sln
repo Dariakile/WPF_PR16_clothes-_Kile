@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_PR16_clothes _Kile", "WPF_PR16_clothes _Kile.csproj", "{8C50487D-4929-420F-BAAA-85619835EF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C50487D-4929-420F-BAAA-85619835EF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C50487D-4929-420F-BAAA-85619835EF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C50487D-4929-420F-BAAA-85619835EF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C50487D-4929-420F-BAAA-85619835EF84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B87AFDDA-E5EC-4324-8FEF-CAA870D69E6D}
+	EndGlobalSection
+EndGlobal
